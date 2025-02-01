@@ -1,1 +1,1 @@
-# python-passgen
+# python password generator
